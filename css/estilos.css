@@ -1,0 +1,39 @@
+nav ul li{
+	display: inline-block;
+}
+nav ul li a h2{
+	color: #fe8008;
+	font-size:2em;
+	
+}
+
+nav ul li a h2:hover{
+	color: #007f74;
+	font-size:2em;
+	 
+}
+h1,h2,h3{
+	font-family:"Harabara Mais Demo",sans-serif;
+}
+
+h1{
+	color:#ffffff;
+	background-color:#007f74;
+	border-radius: 5px;
+	box-shadow: 4px 4px 3px rgba(0,0,0,0.5);
+	text-align: center;
+}
+ .redes{
+	 background-color:#737373;
+	 width:30%;
+ }
+ h3{
+	 color:#007f74;
+	 text-align:center;
+ }
+ footer{
+	 background-color:#efefef;
+ }
+ 
+	 
+ 
